@@ -17,7 +17,7 @@ Créer un système embarqué basé sur Arduino capable d’indiquer la proximit�
 - Senseur Shield (facultatif)
 
 ## ⚙️ Principe de fonctionnement
-Le système mesure la distance entre le capteur ultrason et un obstacle (véhicule). Il réagit de la manière suivante :
+Le système utilise un capteur pour détecter la présence détecter la présence d'un véhicule en fonction de la distance en allumant les LED dans un certain ordre et une certaine couleur et donnera un avertissement avec un son grâce au buzzer.Le système mesure la distance entre le capteur ultrason et un obstacle (véhicule). Il réagit de la manière suivante :
 
 | Distance mesurée | LEDs allumées | Couleur des LEDs | Fréquence du buzzer |
 |------------------|----------------|------------------|----------------------|

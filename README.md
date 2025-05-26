@@ -5,6 +5,7 @@ Le but de ce projet est de concevoir un système simple et efficace permettant d
 
 ## 🎯 Objectif
 Créer un système embarqué basé sur Arduino capable d’indiquer la proximité d’un véhicule en allumant des LEDs de différentes couleurs, tout en ajustant le rythme sonore d’un buzzer selon la distance.
+[![An old rock in the desert](/Les images/BreadBoard.jpeg"Shiprock, New Mexico by Beau Rogers")]
 
 ## 🧰 Matériel utilisé
 - Carte Arduino UNO  
